@@ -1,0 +1,16 @@
+{
+  "columns": [
+    "student.name",
+    "course.name"
+  ],
+  "filters": [
+    {
+      "field": "course.id",
+      "operator": "=",
+      "value": "PY101"
+    }
+  ],
+  "order_by": "student.spi",
+  "direction": "DESC",
+  "limit": 2
+}

@@ -1,0 +1,20 @@
+{
+  "inventory_a": [
+    {
+      "id": "P1",
+      "name": "Pen",
+      "stock": 10,
+      "purchase": 5,
+      "selling": 8
+    }
+  ],
+  "inventory_b": [
+    {
+      "id": "P1",
+      "name": "Pen",
+      "stock": 7,
+      "purchase": 4,
+      "selling": 9
+    }
+  ]
+}
